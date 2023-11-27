@@ -12,5 +12,5 @@ The pictures of the app are:
 
 <div>
   <img src="https://github.com/jaxon93/android_ebay/blob/master/android_ebay_main.png" width="30%" height="auto"/>
-    <img src="https://github.com/jaxon93/android_ebay/blob/master/android_ebay_main2.png" width="30%" height="auto"/>
+    <img src="https://github.com/jaxon93/android_ebay/blob/master/android_main_page2.png" width="30%" height="auto"/>
 </div>
