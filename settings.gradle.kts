@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "android_ebay"
 include(":app")
- 
+include(":android_ebay_java")
